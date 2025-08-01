@@ -1,0 +1,18 @@
+Write a class MyMarks and declare following variables of data type int
+english
+physics
+chemistry
+maths
+biology
+
+Assign values (marks) to above variables
+Declare variables totalMarks and percentage of type float
+Calculate total marks and percentage and print total marks and percentage.
+subtract 100 from total and print the output.
+
+Multiply 4 with physics marks and print the output.
+
+Find out cut off marks for TNEA counselling using the following formula
+cut off marks =physics/2 +chemistry/2 +maths
+cutOfMarks variable should be of type float
+Print the cutOfMarks
